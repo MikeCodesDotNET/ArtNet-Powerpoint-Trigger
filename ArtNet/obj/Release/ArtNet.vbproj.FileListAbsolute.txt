@@ -1,0 +1,10 @@
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\bin\Release\ArtNet.dll
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\bin\Release\ArtNet.pdb
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\bin\Release\ArtNet.xml
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\ArtNet.Resources.resources
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\GenerateResource.read.1.tlog
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\GenerateResource.write.1.tlog
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\ArtNet.dll
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\ArtNet.xml
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\ArtNet\obj\Release\ArtNet.pdb

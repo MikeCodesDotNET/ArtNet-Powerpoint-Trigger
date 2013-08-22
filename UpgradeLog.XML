@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="arttrig">
+</Property><Property Name="Solution File" Value="C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig.sln">
+</Property><Property Name="User Options File" Value="C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig.suo">
+</Property><Property Name="Date" Value="28 October 2011">
+</Property><Property Name="Time" Value="14:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="arttrig.sln" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig.sln">
+</Event><Event ErrorLevel="0" Project="" Source="arttrig.suo" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig.suo">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\arttrig.csproj" Description="Project file successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\arttrig.csproj">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\arttrig.csproj.user" Description="Project user file successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\arttrig.csproj.user">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Objects\ArtDMX.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Objects\ArtDMX.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\About.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\About.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\About.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Main.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Main.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Main.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Setup.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Setup.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Setup.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Setup.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\RibbonUI.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\RibbonUI.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\RibbonUI.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\RibbonUI.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\ThisAddIn.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\ThisAddIn.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\ThisAddIn.Designer.cs" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\ThisAddIn.Designer.cs">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\arttrig_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\arttrig_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Properties\Settings.settings" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\ThisAddIn.Designer.xml" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\ThisAddIn.Designer.xml">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Resources\tim.jpg" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Resources\tim.jpg">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Images\1319647757_gtk-media-next-ltr.png" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Images\1319647757_gtk-media-next-ltr.png">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Images\1319647769_gtk-media-next-rtl.png" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Images\1319647769_gtk-media-next-rtl.png">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Images\1319647802_emblem-noread.png" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Images\1319647802_emblem-noread.png">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Images\emblem_shared.png" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Images\emblem_shared.png">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Images\get_info.png" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Images\get_info.png">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\About.resx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\About.resx">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Main.resx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Main.resx">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\Properties\Resources.resx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\RibbonUI.resx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\RibbonUI.resx">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\UI\Setup.resx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\arttrig\UI\Setup.resx">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\arttrig.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="arttrig" Source="arttrig\arttrig.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\ArtNet.vbproj" Description="Project file successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\ArtNet.vbproj">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\Art-Net.vb" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\Art-Net.vb">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\Application.myapp" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\Settings.settings" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\My Project\Resources.resx" Description="File successfully backed up as C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\Backup\ArtNet\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ArtNet" Source="ArtNet\ArtNet.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ArtNet" Source="ArtNet\ArtNet.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="arttrig.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="arttrig.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="arttrig" Source="arttrig\arttrig.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

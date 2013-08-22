@@ -1,0 +1,57 @@
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.Main.resources
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.Properties.Resources.resources
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\GenerateResource.read.1.tlog
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\GenerateResource.write.1.tlog
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\bin\Debug\arttrig.dll
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\bin\Debug\arttrig.pdb
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\bin\Debug\arttrig.dll.manifest
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\bin\Debug\arttrig.vsto
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.dll
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.pdb
+c:\users\mikej\documents\visual studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.RibbonUI.resources
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig\bin\Debug\ArtNet.dll
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig\bin\Debug\ArtNet.pdb
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig\bin\Debug\ArtNet.xml
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.UI.About.resources
+C:\Users\mikej\Documents\Visual Studio 2010\Projects\arttrig\arttrig\obj\Debug\arttrig.UI.Setup.resources
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\arttrig.dll
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\arttrig.pdb
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\arttrig.dll.manifest
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\arttrig.vsto
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\ArtNet.dll
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\ArtNet.pdb
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\ArtNet.xml
+C:\Users\mikej\Desktop\arttrig\arttrig\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.UI.About.resources
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.Main.resources
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.Properties.Resources.resources
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.RibbonUI.resources
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.UI.Setup.resources
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.dll
+C:\Users\mikej\Desktop\arttrig\arttrig\obj\Debug\arttrig.pdb
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.UI.About.resources
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.Main.resources
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.Properties.Resources.resources
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.RibbonUI.resources
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.UI.Setup.resources
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.dll
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\obj\Debug\arttrig.pdb
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\arttrig.dll
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\arttrig.pdb
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\arttrig.dll.manifest
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\arttrig.vsto
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\ArtNet.dll
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\ArtNet.pdb
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\ArtNet.xml
+C:\Users\Mic\Documents\My Dropbox\arttrig\arttrig\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
